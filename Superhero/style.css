@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(39, 37, 37);
+    margin: 10px;
+}
+
+#banner{
+    background-image: url("batmanhorizontal.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#banner2{
+    background-image: url("batmanvertical.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#banner3{
+    background-image: url("baterang.jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.nav{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: yellow;
+    font-size: larger;
+    padding: 15px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+#h1 {
+    color: yellow;
+}
+
+p {
+    padding: 15px;
+    background-color: black;
+    color: yellow;
+    border-radius: 20px;
+}
+
